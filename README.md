@@ -5,8 +5,10 @@ Precondition: Navigate to https://automation.herolo.co.il/
 				
 Test
 				
-1	verify URL title is correct			
-2	verify all elements are display in the header			
+1	verify URL title is correct
+
+2	verify all elements are display in the header	
+
 3	verify all text elements are correct in the header			
 4	verify all elements are display in the introduction section			
 5	verify all text elements are correct in the introduction section			
