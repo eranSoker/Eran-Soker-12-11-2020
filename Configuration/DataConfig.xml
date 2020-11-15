@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Envitonment>
+
+    <ImageRepo>./imageRepository/</ImageRepo>
+    <BrowserName>Chrome</BrowserName>
+
+    <!-- TimeOut -->
+    <ImplicitTimeOut>10</ImplicitTimeOut>
+    <ExplicitTimeOut>30</ExplicitTimeOut>
+
+    <!-- Web -->
+    <url>https://automation.herolo.co.il/</url>
+    <URLTitle>הירולו - חברת פיתוח מובילה המתמחה בפתרונות פרונט אנד</URLTitle>
+
+    <!-- Questions -->
+    <QuestionTitle1>אנחנו זקוקים לחיזוק והרחבת צוות הפיתוח הקיים, האם זה משהו שאתם יכולים לעזור בו?</QuestionTitle1>
+    <QuestionText1>בהחלט. צוות הפיתוח שלנו מונה עשרות מפתחים ובודקי איכות ואנחנו יודעים לעבוד מרחוק או ממשרדי הלקוח.</QuestionText1>
+
+    <QuestionTitle2>האם אתם מספקים רק שירותי פיתוח צד לקוח?</QuestionTitle2>
+    <QuestionText2>לא רק. הירולו היא חברת פיתוח מובילה המספקת שירותי פיתוח מקצה לקצה. יש לנו צוות גדול של מפתחים, מנהלי פרויקטים, בודקי איכות (ידני ואוטומציה), ארכיטקטים ומנהלי צוותים. אנחנו כאן לכל פרויקט שלכם.</QuestionText2>
+
+    <QuestionTitle3>האם יש לכם ניסיון עם חברות סטארטאפ?</QuestionTitle3>
+    <QuestionText3>מאז הקמת הירולו ב-2009, ליווינו עשרות חברות סטארטאפ עם פתרונות מיקור חוץ, פיתוח מרחוק או ייעוץ.</QuestionText3>
+
+    <QuestionTitle4>האם המפתחים שלכם עובדים ממקומות אחרים בעולם?</QuestionTitle4>
+    <QuestionText4>הירולו חרתה על דגלה להשאיר את ההייטק בארץ. כל עובדי החברה הם מנוסים, ממוקצעים ותוצרת כחול לבן.</QuestionText4>
+
+    <QuestionTitle5>למה כדאי לי לעבוד דווקא איתכם?</QuestionTitle5>
+    <QuestionText5>בגלל הניסיון הרב, המוניטין ומתודולוגיית העבודה הייחודית שלנו. אנחנו עוזרים ללקוחותינו להוריד את עומס העבודה ובכך הם חוסכים לעצמם המון זמן וכסף. אנחנו עוזרים להבטיח עמידה בלוחות הזמנים של הפרויקט/המוצר ועוזרים בגיוס של מתכנתים ממוקצעים להרחבת הצוות הקיים.</QuestionText5>
+
+    <QuestionTitle6>איך נוכל להתקדם?</QuestionTitle6>
+    <QuestionText6>תחילה, נתאם פגישת היכרות בה נכיר אחד את השני, נבין את הצרכים והיעדים שלכם ונוכל לפרט על תהליך העבודה הנכון ביותר להמשך התהליך.</QuestionText6>
+
+</Envitonment>
