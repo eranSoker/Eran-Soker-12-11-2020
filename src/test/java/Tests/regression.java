@@ -488,7 +488,6 @@ public class regression extends commonOps
         softAssertion.assertAll();
     }
 
-
     
     @BeforeMethod(description = "Before Method Initialize SoftAssert", alwaysRun = true)
     @Description("Before each method initialize soft assertion")
