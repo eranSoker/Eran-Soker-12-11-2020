@@ -489,6 +489,7 @@ public class regression extends commonOps
     }
 
 
+    
     @BeforeMethod(description = "Before Method Initialize SoftAssert", alwaysRun = true)
     @Description("Before each method initialize soft assertion")
     public void beforeMethod()
